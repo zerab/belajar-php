@@ -1,13 +1,13 @@
 <?php
+
 class Tumbuhan
 {
 	public $akar;
 	public $daun;
 	public $batang;
-	function bertumbuh()
+
+    public function bertumbuh()
 	{
 		return "Tumbuhan sedang bertumbuh";
 	}
 }
-
-?>
