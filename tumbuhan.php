@@ -1,4 +1,4 @@
-<?php 
+<?php
 class Tumbuhan
 {
 	public $akar;
@@ -9,4 +9,5 @@ class Tumbuhan
 		return "Tumbuhan sedang bertumbuh";
 	}
 }
+
 ?>

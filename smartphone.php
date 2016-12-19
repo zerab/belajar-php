@@ -1,5 +1,4 @@
-<?php 
-
+<?php
 class Smartphone
 {
 	public $merk;
