@@ -9,8 +9,8 @@ class Administrator
 
     public function showAdmin()
     {
-        return "Anda adalah seorang administrator dengan username $this->username";
-    }
+        return "Anda adalah seorang administrator dengan username $this->username"; //proses akan dijalankan karena
+    }                                                                 //function ini masih dalam satu class administrator
 
     public function adminPrivileges()
     {
