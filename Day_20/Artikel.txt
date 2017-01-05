@@ -1,0 +1,35 @@
+Tugas
+Abihu Presly Haezer
+
+Pemrograman berorientasi objek pada PHP
+
+Sudah seringkali kita mendengar yang dinamakan object oriented programming karena mau tidak mau, seorang programmer pasti akan berhadapan dengan hal yang satu ini. Object oriented programming bisa dibilang merupakan sebuah konsep yang gampang-gampang susah untuk dipahami, karena pemrograman berorientasi objek ini terlihat sederhana secara sekilas, padahal pemrograman berorientasi objek merupakan konsep yang kompleks. Namun, mempelajari konsep pemrograman berorientasi objek merupakan hal yang tidak akan sia-sia, karena banyak sekali bahasa pemrograman yang menggunakan konsep ini dan salah satunya PHP.
+
+Sebelum kita mempelajari pemrograman berorientasi objek pada PHP, kita harus terlebih dahulu memahami tentang Pemrograman berorientasi objek. Terambil dari wikipedia:
+
+"Pemrograman berorientasi objek (Inggris: object-oriented programming disingkat OOP) merupakan paradigma pemrograman yang berorientasikan kepada objek. Semua data dan fungsi di dalam paradigma ini dibungkus dalam kelas-kelas atau objek-objek."
+
+Setiap class maupun objek, memiliki sifat(data) dan perilaku(fungsi) nya sendiri-sendiri. Contohnya sebuah objek bernama manusia, memiliki sifat atau data seperti nama, berat, tinggi dan umur. Namun manusia juga memiliki perilaku atau fungsi seperti berjalan, berbicara bahkan bernafas. Kerennya, setiap kelas-kelas dan objek-objek ini bisa berinteraksi satu sama lain!
+
+Sekarang kita memasuki ranah pemrograman berorientasi objek pada PHP. Pemrograman berorientasi objek pada PHP di implementasikan melalui sebagai berikut:
+
+1.  Class and Object (Kelas dan Objek)
+Class merupakan tipe data yang ditentukan oleh programmer sendiri, karena class ini memiliki data dan fungsi lokal yang ditentukan oleh programmer sendiri. Class bisa dibilang sebuah blueprint atau sebuah dasar dari objek objek yang nantinya akan kita buat. Sedangkan object adalah sebuah individu instansi yang dibuat berdasarkan class yang dibuat tadi. Supaya lebih muda pahami, kita bisa analogikan sebagai berikut. Kita membuat class yang bernama hewan. Dari class hewan tadi, kita bisa membuat objek seperti kucing, kuda, sapi dan ayam. Jadi secara timbal balik object kucing, kuda, sapi dan ayam ini merupakan anggota dari class hewan.
+
+
+2.  Member Variable and Member Function (Variable anggota dan Fungsi anggota)
+Member variable merupakan variabel-variabel yang didefinisikan kedalam sebuah class tertentu. Variabel-variabel ini tidak akan terlihat dari luar class. Sedangkan member function merupakan fungsi-fungi yang didefinisikan kedalam sebuah class tertentu. Dalam kelas, variabel disebut sebagai atribut dan function disebut sebagai method
+
+3.  Inheritance (Pewarisan)
+Konsep inheritance atau pewarisan terjadi ketika kita ingin mewariskan atribut atau dari sebuah kelas awal (parent class atau base class) pada sebuah kelas warisan (Child class atau sub class). Jadi kita bisa menambahkan atau bahkan mengganti sebuah atribut atau method pada kelas warisan tanpa menggangu kelas awal.
+
+4.  Polymorphism (Poliformisme)
+Konsep Poliformisme ini secara sederhana merupakan sebuah konsep dimana sebuah fungsi bisa digunakan untuk tujuan berbeda tergantung dari objek yang dibuat. Contoh sederhana, seekor hewan tentu memiliki fungsi-fungsi dasar seperti bergerak, makan dan melihat. Tetapi apakah semua hewan bergerak, makan dan melihat dengan cara yang sama? Tentu tidak, bukan? Seperti kucing yang bergerak dengan cara berjalan tetapi ikan bergerak dengan cara berenang. Pada kasus seperti inilah polimorfisme mengambil bagian yang penting. Polimorfisme bisa dilakukan dengan 2 cara yaitu dengan menggunakan abstraction dan interface.
+
+5.  Encapsulation (Enkapsulasi)
+Encapsulation ini berguna untuk menentukan batasan akses pada suatu property ataupun method dari sebuah class. Izin akses ini terdiri dari 3 macam (untuk property dan method) antara lain public, private dan protected.
+
+6.  Constructor and destructor
+Constructor merupakan sebuah fungsi spesial dimana kita bisa membangun (construct) sebuah objek baru dengan parameter properti yang sudah ditentukan. Sedangkan destructor merupakan sebuah fungsi spesial dimana kita bisa memusnahkan (destruct) properti pada object setelah exit atau unset object.
+
+Keenam hal diatas merupakan hal-hal dasar pada pemrograman berorientasi objek pada PHP. Dengan menguasai keenam hal diatas, kita bisa dengan mudah menguasai konsep pemrograman berorientasi objek pada PHP atau bahkan pada bahasa pemrograman lain. Mungkin keenam hal tersebut terlihat sulit, tetapi tidak ada yang mustahil untuk dipelajari asalkan kita memiliki niat :)
