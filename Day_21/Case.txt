@@ -1,0 +1,40 @@
+Tugas
+Abihu Presly Haezer
+
+Permasalahan di lingkungan sekolah yang bisa diselesaikan dengan adanya sebuah aplikasi website php.
+Sekolah di tempat saya belajar, SMKN 2 Surabaya memiliki banyak sekali siswa. Terdapat 10 jurusan dan lebih dari 3000 siswa yang belajar di sekolah saya tercinta ini. Namun sayangnya, jumlah siswa ini tidak sebanding dengan jumlah guru yang sepenuhnya mengawasi siswa. Total terdapat 151 guru(Saya ambil dari website SMKN 2 Sby). itu artinya, rata rata seorang guru harus menangani setidaknya 20 orang murid. Itu saja jika kita hitung secara rata-rata. Padahal nyatanya, setiap jurusan tidak semua guru rata jumlahnya dan tidak semua guru yang memiliki kepedulian ekstra kepada siswa nya. Dan satu-satunya pribadi yang memiliki pengawasan penuh kepada siswa tidak lain dan tidak bukan adalah wali murid atau orang tua sendiri.
+
+Namun, pengawasan orang tua dan guru saja kurang cukup . Diperlukan koordinasi yang baik antara orang tua dengan guru supaya pengawasan baik disisi orang tua maupun sisi guru bisa terjalin secara maksimal. Maka dari itu dengan berkembang pesat nya teknologi maupun gadget dan juga dibarengi oleh mudahnya akses pada internet, kita bisa memanfaatkan hal-hal tersebut untuk membantu menyelesaikan permasalahan di sekitar kita.
+
+Dengan adanya masalah tersebut, saya hadir dengan solusi kecil yang terbesit di pikiran saya. Saya menyebutnya dengan sebuah aplikasi CoParental Care. Yang bilamana jika diartikan secara harfiah, co itu berasal dari kata co-operative yang berarti kerja sama, parental yang berarti orang tua dan care yang berarti kepedulian. Jadi secara harfiah artinya adalah sebuah aplikasi Kerja sama kepedulian orang tua (Nggak nyambung :v).
+
+>>>>>CoParental Care<<<<<
+Tujuan dikembangkannya aplikasi ini:
+Seperti yang tadi disebutkan, aplikasi ini bertujuan untuk membantu koordinasi antara guru dan orang tua siswa dalam mengawasi anak didik nya.
+
+Manfaat dikembangkannya aplikasi ini:
+Diharapkan aplikasi ini dapat membantu hubungan antara wali murid maupun orang tua murid dengan guru. Dan diharapkan aplikasi ini juga bisa digunakan sebagai penggerak agar orang tua saat ini tidak ignorant atau mengabaikan pengawasan terhadap anak anaknya dan supaya orang tua juga bisa berperan aktif mengawasi anak-anaknya dan menaikkan kepedulian dalam kenakalan remaja yang semakin marak pada remaja masa kini.
+
+Platform:
+Aplikasi website PHP. Hal ini sangat menarik, karena sempat terbesit di pikiran saya "kenapa harus PHP?" saya mendapat sedikit jawaban yang entah dari mana. Aplikasi yang ber basiskan website PHP ini sangatlah fleksibel. Karena hampir semua gadget baik dari smartphone, tablet maupun PC mendukung PHP ini. Sehingga aplikasi ini bisa dijalankan dimanapun dengan bermodalkan internet browser. Hal ini juga sangatlah menghemat waktu pengembangan dan biaya pengembangan, karena kita tida perlu membuat aplikasi bagi tiap platform. Jadi PHP merupakan basis yang sangat bagus (Meskipun saya agak sedikit pesimis bahwa aplikasi ini bisa selesai dengan hanya menggunakan PHP hehe).
+
+Fitur-fitur dalam aplikasi ini:
+1.  Newsfeed Seputar sekolah
+Fitur ini memungkinkan admin dari sekolah untuk membagikan baik berita, pengumuman dan informasi penting lainnya agar orang tua bisa tahu berita terkini mengenai sekolah.
+
+2.  Sistem Akun
+sistem akun ini memungkinkan baik para orang tua, siswa maupun guru agar bisa menggunakan fitur fitur pada website ini secara penuh dikedepannya. Karena beberapa fitur di aplikasi ini  membutuhkan data-data dari pengguna.
+
+3.  Sistem SMS on the go (Namanya biar keren)
+Sistem ini memungkinkan guru untuk bisa mengirimkan informasi penting mengenai hal hal seputar siswa maupun guru. Namun tidak hanya itu, sistem ini bisa memungkinkan agar orang tua siswa untuk mengetahui nomor hp ataupun telepon. Maka dari itu, sangat diperlukan sistem akun agar data data bisa tersimpan secara terstruktur dan setiap data yang diperlukan bisa disediakan oleh database.
+
+4.  Keluhan, Saran dan kritik Sekolah
+Sistem ini nantinya digunakan supaya baik orang tua siswa maupun siswa nantinya bisa mengirimkan baik saran, keluhan maupun kritikan untuk sekolah supaya pelayanan sekolah bisa menjadi lebih baik lagi.
+
+Dan fitur yang menurut saya paling penting (dan paling susah kayaknya)
+5. Sistem chat antara orang tua dan guru
+Dan inilah fitur yang penting, karena melalui fitur inilah orang tua dan guru bisa saling bertukar informasi mengenai bagaimana perkembangan maupun pengawasan terhadap siswa. Mungkin chat yang terdapat pada fitur ini tidak seperti chat biasa pada aplikasi messenger melainkan lebih menekankan kepada informasi yang penting untuk dibagikan baik dari pihak guru maupun orang tua.
+
+Demikian ide kecil yang terbesit di pikiran saya, tentu ini bukan aplikasi yang sempurna namun kedepannya akan terus diperbaiki dan terus ditingkatkan untuk memudahkan hubungan antara orang tua dan siswa.
+
+Terima kasih.
